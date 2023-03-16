@@ -3,7 +3,7 @@ It is a simple todo application.
 - you can add to-do
 - you can mark the done
 - you can filter
--You can select more than one and delete them.
+- ou can select more than one and delete them.
 
 
 
